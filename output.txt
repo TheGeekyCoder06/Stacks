@@ -1,0 +1,1 @@
+Result after removing duplicates: ca
