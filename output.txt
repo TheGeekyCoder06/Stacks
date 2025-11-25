@@ -1,1 +1,1 @@
-Result after removing duplicates: ca
+1 2 3 4 5 
